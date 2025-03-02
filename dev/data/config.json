@@ -1,0 +1,23 @@
+{
+  "site": {
+    "lang": "en",
+    "title": "Jenny Home Care",
+    "titleDelim": " | ",
+    "description": "we provide personalized home care services that promote independence, dignity and well-being for seniors and individuals in need of assistance.",
+    "keywords": "Jenny Home care, Jenny, Home care, House keeping, personal care",
+    "url": "https://jennyhomecare.com"
+  },
+  "modules": {
+    "googleFonts": "https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,300,400,600,700,800%7COpen+Sans+Condensed:300&subset=latin,cyrillic",
+    "bodyJs": true,
+    "headJs": true,
+    "customCss": true,
+    "noscriptCss": false,
+    "twitterCard": false,
+    "openGraph": false
+  },
+  "links": {
+    "twitterCardCreator": "===twittercard-creator-account===",
+    "twitterCardAccount": "===twittercard-main-account==="
+  }
+}
