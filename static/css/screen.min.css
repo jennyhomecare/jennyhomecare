@@ -701,58 +701,44 @@ button:focus {
 	.why__us{
 		margin-left: 10px;
 	}
-	.why__us .boxx{
-	display: inline-block;
-	position: relative;
-	align-items: center;
-	background: transparent;
-	padding: 10px 10px;
-	width: 98%;
-	height: 100%;
-	border: 2px solid #38b6ff;
-	border-radius: 10px;
-	margin-top: 30px;
-}
-.why__us .boxx img{
-	display: flex;
-	width: 70%;
-	min-height: 100px;
-	float: right;
-	margin-right: 15px;
-	background: #fff;
-	align-items: center;
-	font-size: 22px;
-}
-.why__us .boxx h4{
-	position: absolute;
-	font-size: 25px;
-	font-weight: bold;
-	color: #38b6ff;
-	letter-spacing: 1px;
-	margin-left: 20px;
-	margin-top: 25px;
-	margin-bottom: 15px;
-}
-.why__us .boxx p{
-	position: absolute;
-	font-size: 18px;
-	color: white;
-	line-height: 28px;
-	margin-left: 20px;
-	margin-top: 55px;
-}
-.why__us__overlay{
-		position:absolute;
-		width:45%;
-		height:96%;
-		background-color:transparent;
-		background-color:rgba(17,17,17,.4);
-		filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4C000000,endColorstr=#4C000000);
-		zoom:1;
-		background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDoAABSCAABFVgAADqXAAAXb9daH5AAAAAZSURBVHjaYmCAAGM0GjfHGEMGAAAA//8DACm0ATMe8beGAAAAAElFTkSuQmCC);
-		background-repeat:repeat;
-		background-attachment:fixed
-	}
+	.why__us .service-box4 {
+            display: flex;
+            flex-wrap: wrap;
+            width: 98%;
+            background-color: floralwhite;
+            overflow: hidden;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            margin-bottom: 20px;
+            margin-left: 15px;
+            margin-top: 40px;
+        }
+
+        .why__us .text-box4 {
+            flex: 1;
+            padding: 20px;
+            min-width: 300px;
+        }
+
+        .why__us .slideshow-box4 {
+            flex: 1;
+            min-width: 300px;
+            height: 400px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .why__us .slideshow-box4 img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            position: absolute;
+        }
+        .why__us .text-box4 h4{
+            color: #00d2e7;
+            font-weight: bold;
+            font-size: 25px;
+            margin-bottom: 10px;
+        }
 	.margn{
 		margin-top: 20px;
 	}
