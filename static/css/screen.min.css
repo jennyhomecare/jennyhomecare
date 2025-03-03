@@ -1734,3 +1734,15 @@ button{
 .resources-section__header h1{
 	font-size: 28px;
 }}
+
+@media screen and (max-width:500px){
+.Feedbackx .boxx h4{
+	margin-left: 44%;
+	margin-bottom: 15px;
+	margin-top: 28%;
+}
+.Feedbackx .boxx h5{
+	margin-left: 44%;
+	margin-bottom: 15px;
+	margin-top: 32%;
+}}
