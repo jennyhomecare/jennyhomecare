@@ -1546,6 +1546,11 @@ button:focus {
 	font-size: 15px;
 }}
 
+@media screen and (max-width:695px){
+.service-box5 {
+            background: linear-gradient(to top, #005760, whitesmoke);
+     }}
+
 				@media screen and (max-width:600px){
 				.menu{
 				padding-left:0;
