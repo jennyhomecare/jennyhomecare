@@ -334,7 +334,7 @@ button:focus {
         .slideshow-box img:nth-child(2) { animation-delay: 4s; }
         .slideshow-box img:nth-child(3) { animation-delay: 8s; }
 
-.service-box4 {
+.service-box5 {
             display: flex;
             flex-wrap: wrap;
             width: 98%;
