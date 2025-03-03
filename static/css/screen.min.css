@@ -1695,7 +1695,13 @@ button{
 					}}
 
 		@media screen and (max-width:520px){
-	.Feedbackx .boxx{
+	.home-section__header{
+	padding:130px 0 300px;
+  }
+  .home-section__header h2{
+	margin-top: 30px;
+  }
+  .Feedbackx .boxx{
 	width: 90%;
 	height: 100%;
 	margin-left: 20px;
