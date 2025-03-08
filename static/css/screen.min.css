@@ -1694,17 +1694,20 @@ button{
 	margin-right: 0px;
 }
 	.processx .boxx h4{
-	font-size: 22px;
+	font-size: 20px;
 	margin-bottom: 20;
 	letter-spacing: 1px;
 	}
 	.processx .boxx p{
-	font-size: 17px;
+	font-size: 14px;
 	line-height: 18px;
 	margin-bottom: 5px;
 	}
 .processbg{
 	margin-top: 40px;
+}
+  .service-header p{
+	font-size: 18px;
 }
 .Feedbackx .boxx{
 	width: 90%;
