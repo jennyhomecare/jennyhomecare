@@ -1787,12 +1787,15 @@ button{
 
 @media screen and (max-width:500px){
 .Feedbackx .boxx h4{
-	margin-left: 29%;
+	margin-left: 32%;
 	margin-bottom: 15px;
-	margin-top: 23%;
+	margin-top: 25%;
 }
 .Feedbackx .boxx h5{
-	margin-left: 29%;
+	margin-left:32%;
 	margin-bottom: 15px;
-	margin-top: 28%;
+	margin-top: 30%;
+}
+.Feedbackx .boxx p{
+	font-size: 13px;
 }}
