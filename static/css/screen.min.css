@@ -984,9 +984,10 @@ button:focus {
 .Feedbackx .boxx p{
 	position: absolute;
 	font-size:14px;
+  font-family: Georgia,Times,"Times New Roman",serif;
 	color: #1f2a44;
-	font-weight: 600;
   font-style: italic;
+  font-weight: normal;
 	line-height: 18px;
 	margin-left: 20px;
 	margin-top: 10px;
