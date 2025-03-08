@@ -986,6 +986,7 @@ button:focus {
 	font-size:14px;
 	color: #1f2a44;
 	font-weight: 600;
+  font-style: italic;
 	line-height: 18px;
 	margin-left: 20px;
 	margin-top: 10px;
