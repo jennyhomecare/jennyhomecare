@@ -242,6 +242,7 @@ button:focus {
 .service-header p{
 	font-family: "SitkaCustom", serif;
   	font-style: normal;
+    font-weight: normal;
   	font-size: 20px;
 	margin-bottom: 20px;
 	margin-left: 30px;
