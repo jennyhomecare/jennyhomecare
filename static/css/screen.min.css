@@ -1657,6 +1657,24 @@ button:focus {
 					.common-section__header p{
 					font-size: 20px;
 					}
+  .about-section__card-info p{
+		font-size: 16px;
+	}
+	.about-section__card-info ul li{
+		font-size: 16px;
+	}
+	.about-section__card-info h6{
+		font-size: 16px;
+	}
+	.service-box4 .text-box4 p{
+		font-size: 16px;
+	}
+	.service-box4 .text-box4 h4{
+		font-size: 24px;
+	}
+	.text-box4 ul li{
+		font-size: 16px;
+	}
 	.why__us .boxx h4{
 	font-size: 18px;
 	letter-spacing: 1px;
@@ -1705,6 +1723,27 @@ button{
 	}
 .processbg{
 	margin-top: 40px;
+}
+  .service-header p{
+	font-size: 16px;
+}
+.service-header h2{
+	font-size: 19px;
+}
+.text-box ul{
+	font-size: 16px;
+}
+.text-box1 ul{
+	font-size: 16px;
+}
+.text-box2 ul{
+	font-size: 16px;
+}
+.text-box3 ul{
+	font-size: 16px;
+}
+.common-section__header p{
+	font-size: 18px;
 }
   .service-header p{
 	font-size: 18px;
